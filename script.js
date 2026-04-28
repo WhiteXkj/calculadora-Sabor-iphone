@@ -1,5 +1,5 @@
 function tocarSom() {
-  const som = new Audio("click.wav");
+  const som = new Audio("./click.wav");
   som.volume = 0.3;
   som.play();
 }
